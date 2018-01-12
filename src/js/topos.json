@@ -1,0 +1,16 @@
+{
+    "topos":[
+        {
+            "name":"TopoJuan",
+            "mote":"topoGuerrero"
+        },
+        {
+            "name":"TopoPadre",
+            "mote":"topoJefe"
+        },
+        {
+            "name":"TopoDeiby",
+            "mote":"topoExplorador"
+        }
+    ]
+}
